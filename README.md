@@ -1,2 +1,2 @@
 # to-do-list-app
-Task 1.9  Introduction to jQuery
+A simple application for the purpose of to have a "To-Do-List". This application is built with HTML, CSS and JavaScript. 
